@@ -1,27 +1,31 @@
 # Python Codewars Journey
 
-My journey learning Python through Codewars.
+A repository documenting my progress in Python through Codewars challenges.
 
-## Goals
-- Improve my Python programming skills.
-- Practice problem-solving every day.
-- Learn Git and GitHub.
-- Track my progress over time.
+## About
 
-## Repository Structure
+I am learning Python, improving my problem-solving skills, and practicing Git and GitHub.
 
-- `8-kyu/` — Codewars 8 kyu solutions.
-- `7-kyu/` — Codewars 7 kyu solutions (coming soon).
+## 8 kyu Solutions
 
-## Languages
-- Python
+- [x] Even or Odd
+- [x] Multiply
+- [x] Return Negative
+- [x] Sum of positive
+- [x] Reversed Strings
+- [x] Convert a Number to a String!
+- [x] Convert boolean values to strings 'Yes' or 'No'
 
-## Progress
+## Skills Practiced
 
-- [x] make_negative
-- [x] positive_sum
-- [x] open_or_senior
-- [x] even_or_odd
-- [x] multiply
+- Python functions
+- Conditional statements
+- Loops
+- Lists and arrays
+- String manipulation
+- Type conversion
+- Git and GitHub
 
-I am learning step by step and improving every day.
+## Goal
+
+Practice consistently, understand each solution, and track my progress as I learn Python.
